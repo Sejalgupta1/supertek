@@ -1,0 +1,573 @@
+ .top{
+     padding: 90px 0;
+     text-align: center;
+ }
+ 
+ 
+ 
+ 
+ .top h3{
+    font-family: 'Gentium Basic Bold', arial;
+    font-weight: 700;  
+    font-size: 24px;
+    color: #37404d;
+    margin-bottom: 30px;
+ }
+ .top p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #37404d;
+    line-height: 20px;
+    margin-bottom: 45px;
+    padding:0 205px;
+ }
+ .cell span{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #37404d;
+    display: block;
+ }
+ .cell img{
+     margin-bottom: 20px;
+ }
+ 
+ .top_bar{
+     padding: 70px 0;
+     
+     background-color: #565cc9;
+ }
+ .top_bar h3{
+    font-family: 'Gentium Basic Bold', arial;
+    font-weight: 700;  
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: center;
+ }
+ .top_bar p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #fff;
+    line-height: 20px;
+    margin-bottom: 45px;
+    padding: 0 200px;
+    text-align: center;
+ }
+ .trailer{
+     padding: 75px 0;
+     text-align: center;
+ }
+ .trailer h3{
+    font-family: 'Gentium Basic Bold', arial;
+    font-weight: 700;  
+    font-size: 24px;
+    color: #37404d;
+    margin-bottom: 33px;
+ }
+ .trailer p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #37404d;
+    margin-bottom: 50px;
+    padding: 0 200px;
+ }
+ .trailer button{
+     background-color:#1e96f2;
+     color: #fff;
+     font-family: 'Gentium Basic Bold', arial;
+    font-weight: 700;  
+    font-size: 16px;
+    width: 250px;
+    height: 50px;
+    text-transform: uppercase;
+     border: 1px solid #1e96f2;
+     border-radius: 4px;
+ }
+ .menu li{
+    display: inline;
+    color: #fff;
+    margin-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 12px;
+ }
+.developers{
+   padding:90px 0;
+    
+}
+.list span{
+   font-family: 'Gentium Basic Bold', arial;
+    font-weight: 700;  
+    font-size: 24px;
+    color: #1e96f2;
+}
+.list strong{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+}
+.list_bar{
+   padding: 56px 0;
+}
+.list_bar li{
+   list-style-type:  none;
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #37404d;
+     
+}
+.list_bar i{
+   margin-bottom: 10px;
+}
+ .arw{
+    margin-right: 15px;
+ }
+.down_btn{
+   width: 180px;
+   height: 55px;
+   color: #fff;
+   background-color: #1e96f2;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 16px;
+   border-radius: 10px;
+   text-transform: uppercase;
+}
+.learn_btn{
+   width: 180px;
+   height: 55px;
+   color: #1e96f2;
+   background-color: #fff;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 16px;
+   border-radius: 10px;
+   border: 2px solid #1e96f2 !important;
+   margin-left: 10px;
+    text-transform: uppercase;
+}
+.learn_btn:hover{
+   border: 2px solid #1e96f2 !important;
+}
+.screenshot h3{
+   font-family: 'Gentium Basic Bold', arial;
+    font-weight: 700;  
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+.screenshot p{
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 70px;
+    padding: 0 213px;
+}
+.screenshot{
+   padding: 70px 0;
+   background-color: #565cc9;
+   text-align: center;
+}
+ .feedback h3{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #37404d;
+   margin-bottom: 45px;
+ }
+.feedback p{
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #37404d;
+    margin-bottom: 75px;
+    padding: 0 200px;
+     
+}
+.feedback{
+   padding: 70px 0;
+   text-align: center;
+}
+.mid{
+   background-color: #565cc9;
+   padding: 70px 0 31px 0;
+   text-align: center;
+   border-radius: 10px;
+}
+.mid p{
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #fff;
+}
+.mid button{
+   width: 200px;
+   height: 44px;
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #565cc9;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 46px 0 33px 0;
+}
+.content_info{
+   padding: 73px 0 45px 0;
+   
+
+}
+.content_info h3{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #37404d;
+    margin-bottom: 31px;
+    text-align: center;
+}
+.lorem{
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #37404d;
+    margin-bottom: 70px;
+    text-align: center;
+    padding: 0 200px;
+}
+.myaap li{
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 14px;
+    color: #37404d;
+    list-style: none;
+    margin-bottom: 30px;
+}
+.sign li{
+   list-style: none;
+    margin-bottom: 27px;
+}
+.simply p{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;  
+   font-size: 15px;
+   color: #37404d;
+   padding: 0 80px;
+}
+.top_menu li {
+   font-family: 'Poppins', sans-serif;
+    font-weight: 400;  
+    font-size: 16px;
+    color: #fff;
+    list-style: none;
+    margin-bottom: 30px;
+    display: inline;
+    margin-right: 10px;
+}
+ .icons a{
+    display: block;
+ }
+ .banner{
+    background-color: #6268ce;
+    padding-bottom: 80px;
+ }
+ .page h3{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #fff;
+   margin-bottom: 40px;
+   padding: 0 71px
+ }
+ .page p{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;  
+   font-size: 16px;
+   color: #fff;
+   margin-bottom: 70px;
+   padding: 0 63px;
+    
+ }
+ 
+ .download_btn{
+   width: 180px;
+   height: 55px;
+   color: #fff;
+   background-color: #1e96f2;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 16px;
+   border-radius: 10px;
+   text-transform: uppercase;
+   border: 1px solid #1e96f2;
+   margin-right: 20px;
+   margin-left: 49px;
+   
+   
+ }
+ .download_btn:hover{
+    background-color: #fff;
+    color: #1e96f2;
+ }
+  
+ .more_btn{
+   width: 180px;
+   height: 55px;
+   color: #fff;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 16px;
+   border-radius: 10px;
+   text-transform: uppercase;
+   border: 2px solid #fff !important;
+   background-color: #6268ce;
+ }
+ .more_btn:hover{
+   background-color: #1e96f2;
+   border: 2px solid #1e96f2 !important;
+ }
+ .text{
+   background-color: #565cc9;
+   position: relative;
+   padding: 70px 0 30px;
+  border-radius: 5px;
+   max-width: 770px;
+   margin: 39px auto;
+ }
+ .text i{
+   position: absolute;
+   top: -40px;
+   left: 50%;
+   transform: translateX(-50%);
+   display: inline-block;
+   width: 73px;
+   height: 73px;
+   background-color: #000;
+   border-radius: 50%;
+   border: 2px solid #fff;
+}
+ 
+ .text p{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   color: #fff;
+   padding: 0 105px;
+   margin:0 0 37px
+ }
+ .text button{
+   width: 250px;
+   height: 55px;
+   color: #6268ce;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 16px;
+   border-radius: 25px;
+   border: 1px solid #fff;
+   background-color: #fff;
+   margin-bottom:30px ;
+ }
+ .contact h3{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #fff;
+   margin-bottom: 45px;
+   text-align: center;
+ }
+ button:focus{
+    outline: none;
+    border:none;
+ }
+ .overview{   
+   background: #f7f7f7;
+   display: flex;
+   flex-wrap: wrap;
+ }
+  
+ .view{
+ width: 25%;
+ text-align: center;
+ padding: 20px;
+ border-right: 1px solid #eaeaea;
+}
+ .view h3{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #37404d;
+   margin-left: 30px;
+ }
+ .view p{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;  
+   font-size: 16px;
+   color: #37404d;
+    padding:0 0 10px;
+ }
+ .view:last-child{
+    border:none;
+ }
+  
+.contact_us{
+  padding: 61px 0 0 0;
+   background-color: #565cc9;
+}
+ .contact_us h3{
+   text-align: center;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #fff;
+   margin-bottom: 55px;
+ }
+ /* .detail{
+    text-align: center;
+ } */
+.name{
+   width:50%;
+   height:30px;
+   border-radius: 7px;
+   
+   
+   margin-top: 20px;
+   
+}
+.msg{
+   width:50%;
+   height:88px;
+   border-radius: 7px;
+   margin-top: 20px;
+   
+}
+.send_btn{
+   width: 200px;
+   height: 50px;
+   color: #fff;
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 16px;
+   border-radius: 25px;
+   border: 1px solid #1e96f2;
+   background-color: #1e96f2;
+    margin-top: 20px;
+    text-transform: uppercase;
+   margin-bottom: 25px;
+}
+.send_btn:hover{
+   background-color: #565cc9;
+}
+.pqrs{
+   text-align: center;
+   background-color: #fff;
+   margin: 0 140px;
+   padding: 40px 0;
+}
+.pricing{
+   background-color: #565cc9;
+   padding: 50px 0;
+}
+.pricing h3{
+   font-family: 'Gentium Basic Bold', arial;
+   font-weight: 700;  
+   font-size: 24px;
+   color: #fff;
+   text-align: center;
+}
+.pricing p{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   color: #fff;
+   padding: 0 225px;
+   text-align: center;
+   margin-bottom: 30px;
+}
+.price{
+     background:url('../images/wave-image.jpg')no-repeat center top/cover;
+     
+     
+}
+.price h5{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 12px;
+   color: #fff;
+   margin-top: 25px;
+   margin-left: 10px;
+   text-transform: uppercase;
+}
+.price span{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 36px;
+   color: #fff;
+   display: block;
+   margin-left: 10px;
+}
+.price strong{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 12px;
+   color: #fff;
+   display: block;
+   margin-left: 10px;
+}
+.price button{
+   text-align: right;
+}
+.price ul{
+   padding-top: 25px;
+   padding-bottom: 17px;
+}
+.price ul li{
+   text-align: center;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   color: #fff;
+   list-style-type: none;
+   padding-top: 18px;
+   padding-bottom: 12px;
+   margin-right: 20px;
+}
+.ab{
+   background-color: #0079d5;
+}
+.del_btn{
+   width:100px;
+   height: 40px;
+   text-align: center;
+   border-radius: 18px;
+   border: 1px solid #fff;
+   background-color: #1e96f2;
+   color: #fff;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   text-transform: uppercase;
+   margin-left: 90px;
+   margin-bottom: 14px;
+}
+.sel_btn{
+   width:100px;
+   height: 40px;
+   text-align: center;
+   border-radius: 18px 0 0 18px;
+   border: 1px solid #0079d5;
+   background-color: #0079d5;
+   color: #fff;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 14px;
+   text-transform: uppercase;
+   margin-left: 175px;
+   margin-bottom: 25px;
+   margin-top: 120px;
+   
+}
